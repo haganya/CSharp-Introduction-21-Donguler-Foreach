@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-4Con_ForeachDongusu\20170809-4Con_ForeachDongusu\bin\Debug\20170809-4Con_ForeachDongusu.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-4Con_ForeachDongusu\20170809-4Con_ForeachDongusu\bin\Debug\20170809-4Con_ForeachDongusu.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-4Con_ForeachDongusu\20170809-4Con_ForeachDongusu\bin\Debug\20170809-4Con_ForeachDongusu.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-4Con_ForeachDongusu\20170809-4Con_ForeachDongusu\obj\Debug\20170809-4Con_ForeachDongusu.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-4Con_ForeachDongusu\20170809-4Con_ForeachDongusu\obj\Debug\20170809-4Con_ForeachDongusu.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-4Con_ForeachDongusu\20170809-4Con_ForeachDongusu\obj\Debug\20170809-4Con_ForeachDongusu.pdb
